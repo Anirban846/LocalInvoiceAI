@@ -1,0 +1,6 @@
+streamlit
+ollama
+pypdf
+pytesseract
+Pillow
+pandas
